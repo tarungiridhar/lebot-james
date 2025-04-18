@@ -6,3 +6,5 @@ There are 20 unique LeBron style messages that can be sent and 11 LeBron style p
 
 The bot can be invited to your server by clicking [here](https://discord.com/oauth2/authorize?client_id=1362649377176551464), where it is hosted off of my PC.
 If you want to host it yourself, you can create a Discord application [here](https://discord.com/developers/applications/), clone the repo, install the requirements.txt, and provide your application's token key in a .env file with the key named TOKEN.
+
+Feel free to send a pull request if you would like to.
